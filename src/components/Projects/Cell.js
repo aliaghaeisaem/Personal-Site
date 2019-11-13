@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import dayjs from "dayjs";
-import url from "url";
+const images = require.context('../../images/projects', true);
 
+console.log(images('./vga-controller.png'))
 const Cell = ({ data }) => (
   <div className="cell-container">
     <article className="mini-post">
@@ -15,7 +16,7 @@ const Cell = ({ data }) => (
         </time>
       </header>
       <a href={data.link} className="image">
-        <img src={url.resolve("/", data.image)} alt="" />
+        <img src={images(`./${data.image}`)} alt="" />
       </a>
       <div className="description">
         <p>{data.desc}</p>

@@ -3,7 +3,7 @@ const data = [
     title: "Implementation of VGA Controller with FPGA",
     subtitle: "Subtitle",
     link: "/projects",
-    image: "/images/projects/vga-controller.png",
+    image: "vga-controller.png",
     date: "2017-12-30",
     desc:
       "As a standard display interface, VGA (Video Graphics Array) has been widely used. " +
