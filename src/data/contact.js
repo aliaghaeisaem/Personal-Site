@@ -3,6 +3,8 @@ import faLinkedinIn from "@fortawesome/fontawesome-free-brands/faLinkedinIn";
 import faTwitter from "@fortawesome/fontawesome-free-brands/faTwitter";
 import faEnvelope from "@fortawesome/fontawesome-free-regular/faEnvelope";
 import faGitlab from "@fortawesome/fontawesome-free-brands/faGitlab";
+import faYoutube from "@fortawesome/fontawesome-free-brands/faYoutube"
+import faAparat from "@fortawesome/fontawesome-free-brands/faAmilia"
 
 const data = [
   {
@@ -14,6 +16,16 @@ const data = [
     link: "https://gitlab.com/aliaghaeisaem",
     label: "Gitlab",
     icon: faGitlab
+  },
+  {
+    link: "https://youtube.com/laablaablaab",
+    label: "Youtube",
+    icon: faYoutube
+  },
+  {
+    link: "https://aparat.com/laab",
+    label: "Aparat",
+    icon: faAparat
   },
   // {
   //   link: "https://facebook.com/",
