@@ -11,9 +11,9 @@ const Index = () => (
           <h2>
             <Link to="/">About this site</Link>
           </h2>
-          <p>
+          {/* <p>
             A beautiful, responsive, react app written with modern Javascript.
-          </p>
+          </p> */}
         </div>
       </header>
       <p>
@@ -26,7 +26,7 @@ const Index = () => (
       </p>
       <p>
         {" "}
-        Source available <a href="https://gitlab.com/aranjbar/me">here</a>.
+        Source available <a href="https://github.com/aliaghaeisaem/Personal-Site">here</a>.
       </p>
     </article>
   </Main>
