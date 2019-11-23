@@ -13,10 +13,10 @@ const Nav = () => (
         <img src={profileImage} alt="" />
       </Link>
       <header>
-        <h2>Ali Ranjbar</h2>
+        <h2>Ali Aghaei Saem</h2>
         <p>
-          <a href="mailto:ali1377ranjbar@gmail.com">
-            {"ali1377ranjbar{at - sign}gmail.com"}
+          <a href="mailto:a.aghaei.s@gmail.com">
+            {"a.aghaei.s@gmail.com"}
           </a>
         </p>
       </header>
@@ -24,14 +24,20 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <span>Hello</span>
+      <span>Hi!</span>
       <p>
-        I&apos;m Ali, a student in the{" "}
+        I&apos;m Ali, an engineer, a student with strong curiosity about new science, and also a good son and brother.
+        I ranked 1st among 130 students for my B.Sc. degree in Telecommunications from the 
         <a href="https://ece.ut.ac.ir/en/ece">
           School of Electrical and Computer Engineering
         </a>{" "}
-        at University of Tehran with an Undergraduate focused in
-        Telecommunications Engineering... 
+         at the University of Tehran. Currently I&apos;m a student in the 
+        <a href="http://ee.sharif.edu/~web/en/">
+          School of Electrical Engineering 
+        </a>{" "}
+        at the Sharif University of Technology with M.Sc. focused in microwave and photonics. 
+        My research interests include RF and milimeter wave design and measurement, applied physics, 
+        application of signal/image processing in health issues, and GNSS systems simulation using SDR. 
       </p>
       <ul className="actions">
         <li>

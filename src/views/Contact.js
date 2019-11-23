@@ -97,7 +97,7 @@ const Contact = () => {
           >
             <a
               href={
-                validateText(message) ? `mailto:ali1377ranjbar@gmail.com` : ""
+                validateText(message) ? `mailto:a.aghaei.s@gmail.com` : ""
               }
             >
               <span>{message}</span>

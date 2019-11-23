@@ -6,12 +6,12 @@ import faGitlab from "@fortawesome/fontawesome-free-brands/faGitlab";
 
 const data = [
   {
-    link: "https://github.com/aranjbar1313",
+    link: "https://github.com/aliaghaeisaem",
     label: "Github",
     icon: faGithub
   },
   {
-    link: "https://gitlab.com/aranjbar",
+    link: "https://gitlab.com/aliaghaeisaem",
     label: "Gitlab",
     icon: faGitlab
   },
@@ -26,7 +26,7 @@ const data = [
   //   icon: faInstagram
   // },
   {
-    link: "https://www.linkedin.com/in/ali-ranjbar",
+    link: "https://www.linkedin.com/in/ali-aghaei-saem-967108137",
     label: "LinkedIn",
     icon: faLinkedinIn
   },
@@ -36,12 +36,12 @@ const data = [
   //   icon: faAngellist
   // },
   {
-    link: "https://twitter.com/AliRanjbar_1313",
+    link: "https://twitter.com/aliaghaeisaem",
     label: "Twitter",
     icon: faTwitter
   },
   {
-    link: "mailto:ali1377ranjbar@gmail.com",
+    link: "mailto:a.aghaei.s@gmail.com",
     label: "Email",
     icon: faEnvelope
   }
