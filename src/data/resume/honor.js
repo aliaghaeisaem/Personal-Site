@@ -4,7 +4,7 @@ const honor = [
     position: "Iran",
     link: "#",
     daterange: "2015 - 2019",
-    points: ["Ranked 1st among 128 students"]
+    points: ["Ranked 1st according to GPA among all B.Sc. students"]
   },
   {
     company: "National Electrical Engineering Olympiad",
@@ -21,11 +21,11 @@ const honor = [
     points: ["Outstanding academic performance"]
   },
   {
-    company: "Nationwide University Entrance Exam",
+    company: "Iranian University Entrance Exam",
     position: "Iran",
     link: "#",
     daterange: "2015",
-    points: ["Ranked 171th place among all applicants in the physics and mathematics exam (approximately 182,000 applicants)","21st among 7,000 participants in the foreign languages exam"]
+    points: ["Ranked 171th place among all applicants in the physics and mathematics exam (approximately 182,000 applicants)"]
   }
 ];
 

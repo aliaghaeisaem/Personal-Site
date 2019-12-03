@@ -15,7 +15,7 @@ const certifications = [
     name: "Business and Soft Skills",
     year: "January 2019",
     school: "Sadaf Program",
-  //  link: Sadaf or Tinet
+    link: "http://tinet.ir/Load/pages/1033"
   },
   {
     name: "Network+",
@@ -28,30 +28,26 @@ const certifications = [
     name: "ARM",
     year: "August 2017",
     school: "Kosar",
-  //  link: Kowsar
+    link: "http://kosarut.ir/"
   },
   {
     name: "AVR",
     year: "September 2016",
     school: "Nira System",
-  //  link: Nira System
+    link: "http://nirasystem.com/"
   },
   {
     name: "Altium Designer",
     year: "September 2016",
-    school: "IEEE Student Branch",
-  //  link: "https://www.kahkeshan.com/certificationVerification"
+    school: "IEEE Student Branch at the University of Tehran",
+    link: "http://ieeesb.ut.ac.ir/"
   },
   {
     name: "MATLAB",
     year: "September 2016",
-    school: "IEEE Student Branch",
-  //  link: "https://www.kahkeshan.com/certificationVerification"
+    school: "IEEE Student Branch at the University of Tehran",
+    link: "http://ieeesb.ut.ac.ir/"
   },
-
-
-
-
 ];
 
 export default certifications;

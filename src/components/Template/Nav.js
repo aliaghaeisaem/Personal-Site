@@ -24,14 +24,14 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <span>Hi!</span>
+      <span>Hello!</span>
       <p>
-        I&apos;m Ali, an engineer, a student with strong curiosity about new science, and also a good son and brother.
-        I ranked 1st among 130 students for my B.Sc. degree in Telecommunications from the 
-        <a href="https://ece.ut.ac.ir/en/ece">
-          School of Electrical and Computer Engineering
+        I&apos;m Ali, a student with strong curiosity about new science and also an engineer.
+        I ranked 1st among 128 students for my B.Sc. degree in Telecommunications from the{" "}  
+        <a href="https://ece.ut.ac.ir/en/ece"> 
+               School of Electrical and Computer Engineering
         </a>{" "}
-         at the University of Tehran. Currently I&apos;m a student in the 
+         at the University of Tehran. Currently I&apos;m a student in the{" "}
         <a href="http://ee.sharif.edu/~web/en/">
           School of Electrical Engineering 
         </a>{" "}
