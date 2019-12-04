@@ -40,9 +40,8 @@ const data = [
     title: "MyTracker, Positioning with Using GSM Signals Instead of GPS",
     subtitle: "Subtitle",
     link: "/projects",
-    //needed revising for picture
-    image: "vga-controller.png",
-    date: "2018-2-30",
+    image: "makeathon.jpg",
+    date: "2017-2-30",
     desc:
       "There are two major drawbacks to using GPS positioning, power consumption and lack of GPS signal coverage indoor. " +
       "Therefore, this prototype was developed using Arduino microcontroller and SIM800 module which are supported by a web server and android application. " +
@@ -52,9 +51,8 @@ const data = [
     title: "Temperature and Humidity meter with Arduino Controlling by Bluetooth and SMS",
     subtitle: "Subtitle",
     link: "/projects",
-    //needed revising for picture
-    image: "vga-controller.png",
-    date: "2017-12-30",
+    image: "iceper.jpg",
+    date: "2016-9-30",
     desc:
       "This prototype was developed using Arduino microcontroller beside ???? as a digital temperature sensor and ??? as an analog humidity meter based on changing capacitance and resonance frequency. " +
       "Also, Bluetooth and SMS connections were used beside an android application to control the device remotely. " +

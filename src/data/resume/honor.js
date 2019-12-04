@@ -1,5 +1,19 @@
 const honor = [
   {
+    company: "Electrical Engineering Department, Sharif University of Technology",
+    position: "Iran",
+    link: "#",
+    daterange: "2019",
+    points: ["Admitted to  M.Sc. program as a talented student without taking Nationwide Entrance Exam"]
+  },
+  {
+    company: "Electrical and Computer Engineering Department, University of Tehran",
+    position: "Iran",
+    link: "#",
+    daterange: "2019",
+    points: ["Admitted to  M.Sc. program as a talented student without taking Nationwide Entrance Exam"]
+  },
+  {
     company: "Electrical and Computer Engineering Department, University of Tehran",
     position: "Iran",
     link: "#",
