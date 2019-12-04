@@ -10,7 +10,7 @@ import Certification from "../components/Resume/Certification";
 import Honors from "../components/Resume/Honors";
 import Skills from "../components/Resume/Skills";
 import Courses from "../components/Resume/Courses";
-import References from "../components/Resume/References";
+// import References from "../components/Resume/References";
 
 import courses from "../data/resume/courses";
 import degrees from "../data/resume/degrees";
@@ -31,12 +31,12 @@ const Resume = () => (
         </div>
       </header>
       <Education data={degrees} />
+      <Honors data={honor} />
       <Experience data={positions} />
       <Certification data={certifications} />
-      <Honors data={honor} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
-      <References />
+      {/* <References /> */}
     </article>
   </Main>
 );
