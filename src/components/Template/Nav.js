@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import data from "../../data/contact";
-import profileImage from "../../images/me_icon.png";
+import profileImage from "../../images/personal.jpg";
 
 const Nav = () => (
   <section id="sidebar">
