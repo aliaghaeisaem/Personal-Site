@@ -18,12 +18,12 @@ const data = [
     icon: faGitlab
   },
   {
-    link: "https://youtube.com/laablaablaab",
+    link: "https://www.youtube.com/channel/UCvQ87RXyYJWhkdK6WtRD7VQ",
     label: "Youtube",
     icon: faYoutube
   },
   {
-    link: "https://aparat.com/laab",
+    link: "https://www.aparat.com/AliAghaeiSaem/",
     label: "Aparat",
     icon: faAparat
   },

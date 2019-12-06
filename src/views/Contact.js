@@ -25,10 +25,10 @@ const Contact = () => {
             <span>a.aghaei.s{"{at-sign}"}gmail.com</span>
           </div>
           <div className="inline-container">
-            <span>a.aghaei.s{"{at-sign}"}yahoo.com</span>
+            <span>ali.aghaeisaem{"{at-sign}"}ee.sharif.edu</span>
           </div>
           <div className="inline-container">
-            <span>a.aghaei.s{"{at-sign}"}yahoo.com</span>
+            <span>aliaghaeisaem{"{at-sign}"}yahoo.com</span>
           </div>
         </div>
         <ul className="icons">
