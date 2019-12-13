@@ -34,7 +34,10 @@ export const categories = [
     name: "Python",
     color: "#37b1f5"
   },
- 
+  {
+    name: "Software Defined Radio",
+    color: "#747fff"
+  },
   {
     name: "Soft Skills",
     color: "#cc7b94"
@@ -50,6 +53,21 @@ export const skills = [
     title: "Microsoft Word",
     compentency: 5,
     category: ["Microsoft Office", "Tools"]
+  },
+  {
+    title: "Adalm-Pluto SDR",
+    compentency: 5,
+    category: ["Software Defined Radio"]
+  },
+  {
+    title: "HackRF One SDR",
+    compentency: 5,
+    category: ["Software Defined Radio"]
+  },
+  {
+    title: "GNU Radio",
+    compentency: 4,
+    category: ["Software Defined Radio"]
   },
   {
     title: "MATLAB & Simulink",

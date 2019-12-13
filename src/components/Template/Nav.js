@@ -36,7 +36,7 @@ const Nav = () => (
           School of Electrical Engineering 
         </a>{" "}
         at the Sharif University of Technology with M.Sc. focused in microwave and photonics. 
-        My research interests include RF and milimeter wave design and measurement, applied physics, 
+        My research interests include RF and millimeter wave design and measurement, applied physics, 
         application of signal/image processing in health issues, and GNSS systems simulation using SDR. 
       </p>
       <ul className="actions">

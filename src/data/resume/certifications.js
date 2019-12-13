@@ -1,6 +1,6 @@
 const certifications = [
   {
-    name: "Workshop on Teacher Assistant",
+    name: "Workshop on Teaching Assistant",
     year: "May 2019",
     school: "School of Electrical and Computer Engineering at the University of Tehran",
     link: "https://ece.ut.ac.ir/en/ece"
@@ -20,7 +20,6 @@ const certifications = [
   {
     name: "Network+",
     year: "September 2017",
-    code: "KN17-CA247096",
     school: "Kahkeshan",
     link: "https://www.kahkeshan.com/"
   },
